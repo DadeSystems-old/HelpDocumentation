@@ -1,6 +1,6 @@
 # Select Below
 
-Business
+[Business](HelpDocumentation/ScannerInstallation.md)
 
 Bank
 
