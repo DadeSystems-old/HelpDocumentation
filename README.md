@@ -1,6 +1,4 @@
-## Welcome
-
-### Choose Below
+## Select Below
 
 Business
 
