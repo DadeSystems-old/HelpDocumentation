@@ -1,5 +1,7 @@
 ## Readme
 
+[Testing Link](https://dadesystems.github.io/HelpDocumentation/ScannerInstallation.html)
+
 ## Manage Portal Users
 
 Portals users can 'Register' on the portal or be setup by an admin user in the main app. 
