@@ -1,4 +1,4 @@
-## Scanner Installation Steps
+# Scanner Installation Steps
 *May 2016*
  
 ### Basic Steps
