@@ -1,12 +1,16 @@
 # Welcome to DadePay Documentation
 
-Select Industry | Offering
------------- | -------------
-Credit Union | Mailroom, ePayments
-Bank | AR Automation, ePayments, Mobile
-[Business](https://dadesystems.github.io/HelpDocumentation/Business.html) | AR Automation, ePayments, Mobile, ECA
+## Select Industry 
 
-#### FAQ's
+[Business](https://dadesystems.github.io/HelpDocumentation/Business.html)
+
+Credit Union 
+
+Bank 
+
+
+
+## FAQ's
 
 [Scanner Installation](https://dadesystems.github.io/HelpDocumentation/ScannerInstallation.html)
 
