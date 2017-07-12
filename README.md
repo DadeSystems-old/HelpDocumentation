@@ -1,4 +1,4 @@
-## Readme
+# Welcome to DadePay Documentation
 
 Select Industry | Offering
 ------------ | -------------
