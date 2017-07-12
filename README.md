@@ -2,7 +2,7 @@
 
 [Testing Link](https://dadesystems.github.io/HelpDocumentation/ScannerInstallation.html)
 
-[Business](https://dadesystems.github.io/HelpDocumentation/Business_ManagePortalUsers)
+[Business](https://dadesystems.github.io/HelpDocumentation/Business_ManagePortalUsers.html)
 
 ## Manage Portal Users
 
