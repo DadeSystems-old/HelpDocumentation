@@ -10,7 +10,7 @@ Bank
 
 
 
-## FAQ's
+# FAQ's
 
 [Scanner Installation](https://dadesystems.github.io/HelpDocumentation/ScannerInstallation.html)
 
