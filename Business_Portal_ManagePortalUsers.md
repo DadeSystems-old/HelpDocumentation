@@ -1,4 +1,4 @@
-[_Back to Portal_](https://github.com/DadeSystems/HelpDocumentation/Business_Portal.html)
+![_Back to Portal_](https://github.com/DadeSystems/HelpDocumentation/Business_Portal.html)
 
 # Manage Portal Users
 
