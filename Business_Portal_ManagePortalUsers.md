@@ -1,3 +1,5 @@
+[_Back to Portal_](https://github.com/DadeSystems/HelpDocumentation/Business_Portal.html)
+
 # Manage Portal Users
 
 Portals users can 'Register' on the portal or be setup by an admin user in the main app. 
