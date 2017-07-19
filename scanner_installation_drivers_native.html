@@ -1,1 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>DadePay Documentation</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="index.html">
+                        Select Industry
+                    </a>
+                </li>
+                <li>
+                    <a href="business.html">Business</a>
+                </li>
+                <li>
+                    <a href="bank.html">Bank</a>
+                </li>
+                <li>
+                    <a href="credit_union.html">Credit Union</a>
+                </li>
+
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Native Drivers</h1>
+                        <a href="#menu-toggle" class="btn btn-primary" id="menu-toggle">Select Industry</a>
+
+                        <br>
+                        <br>
+                        <br>
+                        <h3>Supported Scanners</h3>
+                        <ul>
+                          <li>Panini</li>
+                          <li>Digital Check</li>
+                        </ul>
+
+                        <h3>Steps</h3>
+                        <ol>
+                          <li>Unplug the scanner</li>
+                          <li>Access the capture page and click on ‘Drivers’ or click on the driver in the dropdown below</li>
+                          <li>Download the appropriate driver</li>
+                          <li>Create a DadeScan folder on the c drive</li>
+                          <li>Unzip the driver and save the file in the DadeScan directory</li>
+                          <li>Run the setup with administrative rights from the DadeScan directory</li>
+                          <li>Plug in the scanner</li>
+                        </ol>
+
+                        <div class="dropdown show">
+                          <a class="btn btn-warning dropdown-toggle" href="https://example.com" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Native Drivers
+                          </a>
+                          <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                            <li><a class="dropdown-item" href="https://www.dropbox.com/s/temrh694bzmddgt/DadeSystemsPanini.piz.zip?dl=1" >Panini </a></li>
+                            <li><a class="dropdown-item" href="https://www.dropbox.com/s/sgt9axf8im71l0d/DadeSystemsDigitalCheck.zip?dl=1" >Digital Check</a></li>                          
+                          </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+
+</body>
+
+</html>
